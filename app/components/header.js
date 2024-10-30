@@ -3,7 +3,7 @@ import Link from "next/link"
 const Header = () => {
 	return (
 		<header>
-			<strong>Posts</strong>
+			<strong>itProger</strong>
 			<nav>
 				<Link href='/'>Home</Link>
 				<Link href='/about'>About</Link>
